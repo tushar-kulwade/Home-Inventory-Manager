@@ -1,0 +1,103 @@
+10
+Clara
+Furnace Room
+TREK943793793
+true
+500
+08/29/2110
+Aurora Cycles, Seattle
+Vintage Bike
+C:\Users\niles\IdeaProjects\HomeInventory\src\bicycle.jpg
+TV
+Living Room
+5678
+true
+36699
+07/23/2018
+Bilaspur, Chhattisgarh
+Smart LED TV
+C:\Users\niles\IdeaProjects\HomeInventory\src\tv.jpg
+Laptop
+Bedroom
+9012
+true
+45000
+08/13/2019
+Bilaspur, Chhattisgarh
+Acer Nitro 5 - AN512
+C:\Users\niles\IdeaProjects\HomeInventory\src\laptop.jpg
+TV Remote
+Living Room
+3456
+true
+200
+07/23/2018
+Bilaspur, Chhattisgarh
+It's a TV Remote
+C:\Users\niles\IdeaProjects\HomeInventory\src\remote.jpg
+Headphones
+Bedroom
+7890
+true
+2000
+01/01/2020
+Bilaspur, Chhattisgarh
+Dragonwar Wired Gaming Headphones
+C:\Users\niles\IdeaProjects\HomeInventory\src\headphone.jpg
+Mouse
+Bedroom
+1234
+true
+699
+01/02/2020
+Bilaspur, Chhattisgarh
+Redgear Gaming Mouse - ELEG1
+C:\Users\niles\IdeaProjects\HomeInventory\src\mouse.jpg
+Earphones
+Bedroom
+5678
+true
+1800
+04/10/2020
+Bilaspur, Chhattisgarh
+Realme Buds Air
+C:\Users\niles\IdeaProjects\HomeInventory\src\earphone.jpg
+Powerbank
+Living Room
+9012
+true
+1000
+06/20/2019
+Bangalore, Karnataka
+Philips Powerbank - 10k mAH
+C:\Users\niles\IdeaProjects\HomeInventory\src\powerbank.jpg
+Mobile
+Bedroom
+3456
+true
+8900
+06/20/2016
+Bilaspur, Chhattisgarh
+Honor 9N
+C:\Users\niles\IdeaProjects\HomeInventory\src\mobile.jpg
+Textbook
+Bedroom
+1234
+true
+699
+08/29/2110
+Bilaspur, Chhattisgarh
+Basics of C Programming
+C:\Users\niles\IdeaProjects\HomeInventory\src\cprogbook.jpg
+11
+Always Lost
+Basement Office
+Driveway
+Family Room
+Furnace Room
+My Office
+Under my desk
+Under the other desk
+Bedroom
+Living Room
+
